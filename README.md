@@ -71,7 +71,6 @@ The dataset used is the train Titanic dataset, which contains information about 
 ## Results
 - The Logistic Regression model achieved an accuracy of 76.49%.
 - The Decision Tree Classifier model achieved an accuracy of 74.63%.
-These results indicate that while the models perform moderately well, further improvements could be made through hyperparameter tuning and feature engineering.
 
 ## Conclusion
 This project provided valuable insights into the Titanic dataset and showcased basic steps in exploratory data analysis, data cleaning, and model evaluation. 
