@@ -1,4 +1,5 @@
 # Titanic Dataset - Exploratory Data Analysis (EDA)
+![](Titanic_ship.jpg)
 
 ## Overview
 This repository contains an exploratory data analysis (EDA) on the Titanic dataset from Kaggle. 
